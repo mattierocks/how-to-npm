@@ -1,0 +1,13 @@
+{
+    "name": "@mattierocks/how-to-npm",
+    "version": "1.0.1",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "A test NPM module",
+    "repository": "https://github.com/mattierocks/how-to-npm.git",
+    "dependencies": {}
+}
